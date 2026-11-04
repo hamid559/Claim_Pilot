@@ -1,0 +1,142 @@
+MOBILE DEVICE PROTECTION POLICY
+Policy Version: 2026.1
+
+========================================
+SECTION 1 — ELIGIBILITY
+========================================
+
+1.1 Covered Devices
+
+Coverage applies to enrolled smartphones and tablets purchased
+from an authorized retailer and registered under an active
+protection plan.
+
+1.2 Active Coverage
+
+A device must have an active protection plan on the date the
+damage or loss occurs.
+
+1.3 Waiting Period
+
+Claims submitted within 14 days of initial enrollment are not
+eligible unless the protection plan explicitly waives the waiting
+period.
+
+========================================
+SECTION 2 — ACCIDENTAL DAMAGE
+========================================
+
+2.1 Accidental Physical Damage
+
+Accidental physical damage caused by an unexpected external event
+is covered when the device is enrolled in an active protection plan.
+
+Examples include:
+
+- Dropping the device
+- Accidentally cracking the screen
+- Accidental impact with a hard surface
+
+2.2 Functional Damage
+
+Damage that prevents normal device operation may qualify for
+repair or replacement subject to the applicable plan limits.
+
+2.3 Cosmetic Damage
+
+Minor scratches, dents, discoloration, or other cosmetic
+deterioration that does not affect device functionality are not
+covered as accidental damage.
+
+========================================
+SECTION 3 — LIQUID DAMAGE
+========================================
+
+3.1 Liquid Damage Coverage
+
+Liquid damage is covered only when the customer's protection plan
+explicitly includes liquid damage protection.
+
+3.2 Exclusion
+
+If liquid damage protection is not included in the customer's plan,
+liquid-related damage is excluded from coverage.
+
+========================================
+SECTION 4 — EXCLUSIONS
+========================================
+
+4.1 Intentional Damage
+
+Damage caused intentionally by the customer is not covered.
+
+4.2 Unauthorized Repairs
+
+Damage resulting from repairs or modifications performed by an
+unauthorized service provider is not covered.
+
+4.3 Normal Wear and Tear
+
+Normal deterioration resulting from ordinary use is not covered.
+
+4.4 Lost or Stolen Devices
+
+Lost or stolen devices are not covered under the accidental damage
+protection described in this policy.
+
+========================================
+SECTION 5 — CLAIM REQUIREMENTS
+========================================
+
+5.1 Required Documents
+
+A customer submitting a damage claim must provide:
+
+- Proof of purchase
+- Device IMEI or serial number
+- Description of the incident
+- Photographs showing the damage
+
+5.2 Additional Information
+
+The claims team may request additional documentation when the
+available information is insufficient to determine eligibility.
+
+========================================
+SECTION 6 — CLAIM LIMITS
+========================================
+
+6.1 Repair or Replacement
+
+Approved claims may result in device repair or replacement depending
+on the protection plan and assessment of the damage.
+
+6.2 Deductible
+
+A deductible may apply to an approved claim depending on the
+customer's protection plan.
+
+========================================
+SECTION 7 — CLAIM REVIEW
+========================================
+
+7.1 Eligibility Assessment
+
+Claim eligibility is determined using the customer's active plan,
+the reported incident, the type of damage, and applicable policy
+coverage.
+
+7.2 Human Review
+
+A claim must be escalated to human review when:
+
+- Relevant policy information is missing.
+- The customer's coverage cannot be determined.
+- Evidence conflicts with the reported incident.
+- The claim involves circumstances not addressed by the policy.
+
+7.3 No Unsupported Decisions
+
+The claims assistant must not invent policy rules or make an
+eligibility determination when sufficient policy evidence is not
+available.
